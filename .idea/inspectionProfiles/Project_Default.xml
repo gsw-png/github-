@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="cryptography" />
+          <option value="cssselect" />
+          <option value="six" />
+          <option value="urllib3" />
+          <option value="PyYAML" />
+          <option value="tldextract" />
+          <option value="googletrans" />
+          <option value="httpx" />
+          <option value="httpcore" />
+          <option value="Pillow" />
+          <option value="certifi" />
+          <option value="parsel" />
+          <option value="py-mini-racer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
